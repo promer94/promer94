@@ -1,4 +1,7 @@
-### Hi there 👋
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=promer94&show_icons=true&include_all_commits=true&theme=material-palenight" alt="promer94's github stats" />
+### Skill
+- Frontend Developer
+- TypeScript and React
+### Links
+- Telegram: (at) promer94
+- Email: [yixuanxu94@outlook.com](yixuanxu94@outlook.com)
 
